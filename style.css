@@ -1,4 +1,4 @@
-@import url('girasol.gfff');
+@import url('pexels-639088494-18592671.jpg');
 
  * {
     margin: 0;
@@ -48,7 +48,7 @@ body {
     z-index: 2;
     clip-path: circle(0px at var(--x) var(--y));
     transition: clip-path 0.1s;
-    background: url(windsurfe.jpg);
+    background: url(pexels-639088494-18592671.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
